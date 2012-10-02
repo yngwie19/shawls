@@ -1,0 +1,2 @@
+{"ts":1349181576085,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"extends layout\n\nblock content\n  h1= title\n  p Welcome to #{title}"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65}
+{"contributors":[],"silentsave":true,"ts":1349181580994,"patch":[[{"diffs":[[0,"p Welcom"],[1,"111"],[0,"e to #{t"]],"start1":44,"start2":44,"length1":16,"length2":19}]],"length":68,"saved":false}
